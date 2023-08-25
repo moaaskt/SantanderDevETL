@@ -34,6 +34,4 @@ Certifique-se de configurar as variáveis de ambiente `SDW2023_API_URL` e `OPENA
 
 Este projeto é um exemplo simplificado e pode ser expandido para lidar com casos mais complexos, como lidar com erros de conexão, tratar diferentes cenários de mensagem ou gerenciar mais atributos do usuário na API.
 
-## Aviso
 
-Este projeto é apenas para fins de demonstração e pode ser modificado e expandido de acordo com suas necessidades. Certifique-se de entender os termos de uso das APIs utilizadas e seguir práticas de segurança recomendadas ao lidar com informações sensíveis.
